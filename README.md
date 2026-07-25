@@ -43,7 +43,7 @@ MIT App Inventor · Arduino (C++) · TensorFlow Lite Micro · Python (model trai
 
 ## Repository Contents
 
-- `iottoi.pdf` — team's submitted project report
+- `report.pdf` — team's submitted project report
 - `budget.pdf` — component sourcing and budget breakdown
 - `model.h`, `gesture_model.tflite` — trained gesture recognition model (built by teammate)
 - Arduino firmware code
